@@ -1,0 +1,173 @@
+body{
+   font-family: 'Orbitron', sans-serif;
+   background-color:#adb5bd;  
+    
+}
+
+.oldcar-ban{
+    Display: flex; 
+    justify-content: space-around ;
+    align-items: center;
+    background-color: black;
+    height: 250px;
+    width: auto;
+    color: #FFFFFF;  
+    font-size: 20px;
+}
+.logo-Oc{
+    width: 250px;
+    height: 250px; 
+}
+.Intro-btn{
+    background-color: black;
+    color: #FFFFFF;
+}
+
+.Intro{
+    text-align: center;
+    margin: 50px;
+    font-size: 20px;
+    background-color: #8d99ae;
+}
+
+
+.Diagnóstico{
+    Display: flex; 
+    justify-content: space-around ;
+    align-items: start;
+    margin-top: 70px;
+    
+}
+.Diagnóstico-text{
+    text-align: center;
+    padding:30px;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+    text-shadow: 2px 2px #8b8c89;
+    font-size: 40px;
+}
+
+.agenda-btn{
+    margin-left: 200px;
+    font-size: 25px;
+    background-color: #70e000;
+     color: black;  
+     padding:10px;
+     border-radius: 10px;
+     font-weight: bold;
+      margin-top: 50px;
+}
+.wash{
+    Display: flex; 
+    justify-content: center ;
+    align-items: start;
+    margin-top: 70px;
+     text-align: center;
+    padding:30px;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+    text-shadow: 2px 2px #8b8c89;
+    font-size: 40px;
+}
+
+.agenda-btn{
+    margin-left: 200px;
+    font-size: 25px;
+    background-color: #70e000;
+    color: black;  
+    padding:10px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.hojalatería{
+    Display: flex; 
+    justify-content: center ;
+    align-items: start;
+    margin-top: 70px;
+     text-align: center;
+    padding:30px;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
+    text-shadow: 2px 2px #8b8c89;
+    font-size: 40px;
+}
+
+.agenda-btn{
+    margin-left: 200px;
+    font-size: 25px;
+    background-color: #70e000;
+    color: black;  
+    padding:10px;
+    border-radius: 40px;
+    font-weight: bold;
+}
+.mapas-horario{
+     Display: flex; 
+    justify-content: space-around ;
+    align-items: center;
+}
+
+.Visitanos{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+    font-size: 40px;
+    background-color: #8d99ae;
+}
+
+.horario{
+     background-color: #ced4da;
+     padding: 20px
+}
+.time{
+    padding-left: 50px;
+}
+.conta{
+     margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+    font-size: 40px;
+    background-color: #8d99ae;
+      font-size: 20px;
+}
+.Respaldo{
+    text-align: center;
+}
+.fill{
+    Display: flex; 
+    justify-content: start;
+    align-items: flex-start;
+    background-color: black;
+    height: 350px;
+    width: auto;
+    color: #FFFFFF; 
+    padding-left: 50px;
+}
+.Text-fill{
+     padding-top: 90px;
+     padding-bottom: 60px;
+     padding-right: 190px;
+}
+.formulario-btn{
+   padding-top: 150px;
+     padding-bottom: 60px;
+     padding-right: 200px;
+
+}
+.akl-logo{
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+
+}
+
+.icon-family{
+      Display: flex; 
+    justify-content: center;
+    align-items: flex-start;
+}
